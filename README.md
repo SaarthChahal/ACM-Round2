@@ -1,3 +1,1 @@
-# ACM-Round2
-Stuff I've done in my pursuit for enhancing my computer knowledge
-This repository contains all the work I've done during round 2 of ACM Recruitment
+This branch of the repository contains all the word I've done regarding competititve coding during round 2 of ACM Recruitment
