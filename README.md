@@ -15,5 +15,5 @@ Next I began Learing Django, once again from Codecademy and utilised the knowled
 
 COMPETITVE CODING
 
-I solved few 700-900 difficulty problems on codechef.com but then moved on to backend development as it is more appealing to me, but I also wish to explore competitive coding further.
+I am keenly interested in competitive coding and have solved some 800-900 ish difficulty problems on codechef (coding language is python). I wish to expand my knowledge of python and solve even trickier problems.
 
